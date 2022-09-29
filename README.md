@@ -58,12 +58,5 @@ This is a normal flutter app. You should follow the instructions in the [officia
 | 1.    | [ML](https://github.com/Nishtha0801/Viraan/tree/main/ML)                     | contains the ML Model         |
 | 2.    | [viraan](https://github.com/Nishtha0801/Viraan/tree/main/viraan)             | Flutter app code base         |
 
-## Team:
 
-| S.No. | Name                  | Role                       | GitHub Username:octocat:                             |
-| ----- | ------------------    | -------------------------- | ---------------------------------------------------- |
-| 1.    | Siddhi Purohit        | Frontend Developer         | [@Siddhi003](https://github.com/Siddhi003)           |
-| 2.    | Gaurisha R Srivastava | Machine Learning Developer | [@Gaurisha21](https://github.com/Gaurisha21)         |
-| 3.    | Nishtha Goyel         | Flutter Developer          | [@Nishtha0801](https://github.com/Nishtha0801)       |
-| 4.    | Vibali Joshi          | Flutter Developer          | [@vibalijoshi](https://github.com/vibalijoshi)       |
 
