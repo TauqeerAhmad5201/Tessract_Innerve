@@ -40,7 +40,7 @@ We are trying to solve the following social problems
 - Fork and Clone the Repo
 ```
 $ git clone https://github.com/Siddhi003/Viraan.git
-$ cd Viraan
+$ cd Viraan-main
 $ cd viraan
 ```
 This is a normal flutter app. You should follow the instructions in the [official documentation](https://flutter.io/docs/get-started/install).
